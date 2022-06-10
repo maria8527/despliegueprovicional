@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Juan",
+        "email":"juan@gmail.com",
+        "monto_prestar":"10000000",
+        "plazo_meses":"6 meses"
+    },
+    {
+        "name": "Juana",
+        "email":"juana@gmail.com",
+        "monto_prestar":"2000000",
+        "plazo_meses":"12 meses"
+    }
+]
